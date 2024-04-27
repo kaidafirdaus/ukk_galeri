@@ -3,8 +3,8 @@
 2. MySql
 
 # Installation
-1. xampp
-2. composer
+1. xampp 8.2.12
+2. composer 2.7.4
 3. visual studio code
 4. git bash
 
